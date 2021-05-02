@@ -1,0 +1,104 @@
+quiz:
+        properties:
+                title: "W open-source"
+
+        questions:
+                question1_name:
+                        text: "3+3=?"
+
+                        buttons:
+                                button1_name:
+                                        text: "5"
+                                        color: (255, 0, 0)
+                                        value: False
+
+                                button2_name:
+                                        text: "6"
+                                        color: (0, 255, 0)
+                                        value: True
+
+                                button3_name:
+                                        text: "29"
+                                        color: (0, 255, 255)
+                                        value: False
+
+                                button4_name:
+                                        text: "another number"
+                                        color: (0, 0, 255)
+                                        value: False
+
+
+
+
+
+                question2_name:
+                        text: "20-3=?"
+
+                        buttons:
+                                button1_name:
+                                        text: "17.1"
+                                        color: (255, 0, 0)
+                                        value: False
+
+                                button2_name:
+                                        text: "20"
+                                        color: (0, 255, 0)
+                                        value: False
+
+                                button3_name:
+                                        text: "17.2"
+                                        color: (0, 255, 255)
+                                        value: False
+
+                                button4_name:
+                                        text: "17"
+                                        color: (0, 0, 255)
+                                        value: True
+
+                question3_name:
+                        text: "20*3=?"
+
+                        buttons:
+                                button1_name:
+                                        text: "60"
+                                        color: (255, 0, 0)
+                                        value: True
+
+                                button2_name:
+                                        text: "20"
+                                        color: (0, 255, 0)
+                                        value: False
+
+                                button3_name:
+                                        text: "17.2"
+                                        color: (0, 255, 255)
+                                        value: False
+
+                                button4_name:
+                                        text: "17"
+                                        color: (0, 0, 255)
+                                        value: False
+
+                question4_name:
+                        text: "Do u like this quiz?"
+
+                        buttons:
+                                button1_name:
+                                        text: "Yessir!"
+                                        color: (255, 0, 0)
+                                        value: True
+
+                                button2_name:
+                                        text: "Yes!"
+                                        color: (0, 255, 0)
+                                        value: True
+
+                                button3_name:
+                                        text: "No"
+                                        color: (0, 255, 255)
+                                        value: False
+
+                                button4_name:
+                                        text: "Nope"
+                                        color: (0, 0, 255)
+                                        value: False
